@@ -1,0 +1,26 @@
+h1{
+text-align: center;
+color: white;
+margin: 10% 0%;
+}
+
+img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    filter: blur(3px);
+    z-index: -1;
+}
+.container, #senhagerada{
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+#senhagerada{
+    margin-left: 35%;
+    border: 2px solid white;
+}
